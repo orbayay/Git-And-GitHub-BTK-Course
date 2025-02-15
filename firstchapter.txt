@@ -5,3 +5,5 @@ This txt file created for git branch example.
 We started with merge.
 
 Today at Februray 15 I made examples about branches.
+
+One more sentence before merge in branches.
